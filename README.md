@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @wengison.
-- 👀 I’m interested in web development and programming.
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on front-end projects.
 - 📫 How to reach me venglar01@gmail.com / vengi.ho@seznam.cz
 
 <!---
