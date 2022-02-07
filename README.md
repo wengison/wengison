@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wengison.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently working with JS.
 - 📫 How to reach me venglar01@gmail.com 
 
 <!---
