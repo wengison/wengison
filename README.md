@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wengison.
-- 🌱 Check my web if you want www.wengiis.com 
--                             www.webukazka.com
+- 🌱 Check my web if you want www.wengiis.com, www.webukazka.com
 - 📫 How to reach me venglar01@gmail.com 
 
 <!---
